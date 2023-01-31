@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/portfolio",
   plugins: [
     {
       resolve: "gatsby-theme-portfolio-minimal",
@@ -10,7 +11,7 @@ module.exports = {
           shortName: "Portfolio", // Used in manifest.json
           startUrl: "/", // Used in manifest.json
           backgroundColor: "#FFFFFF", // Used in manifest.json
-          themeColor: "#FFC0CB", // Used in manifest.json
+          themeColor: "#000000", // Used in manifest.json
           display: "minimal-ui", // Used in manifest.json
         },
         contentDirectory: "./content",
