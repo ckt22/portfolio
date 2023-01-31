@@ -6,7 +6,7 @@
     "titleTemplate": "%s · Portfolio Minimal",
     "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
     "author": "Cheuk Kit Tang",
-    "avatar": "../content/images/gatsby.png",
+    "avatar": "../content/images/ck.png",
     "bio": "Portfolio of Cheuk Kit Tang, a software dev. aspires to work in the web3 industry.",
     "social": {
       "github": "https://github.com/ckt22",

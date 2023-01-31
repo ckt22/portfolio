@@ -3,8 +3,8 @@
   "email": "tangck0202@gmail.com",
   "description": "My portfolio for showing my works.",
   "image": {
-    "src": "../../images/favicon.png",
-    "alt": "Gatsby Logo"
+    "src": "../../images/ck.png",
+    "alt": "Cheuk Kit Logo"
   },
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
