@@ -2,9 +2,9 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
+    "title": "Cheuk Kit Tang Portfolio",
     "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+    "description": "Portfolio of my works related to software engineering and web3.",
     "author": "Cheuk Kit Tang",
     "avatar": "../content/images/ck.png",
     "bio": "Portfolio of Cheuk Kit Tang, a software dev. aspires to work in the web3 industry.",

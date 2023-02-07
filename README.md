@@ -1,3 +1,7 @@
-Theme provided by Gatsby Starter Portfolio Minimal Theme
+As this portfolio was a gatsby started project, I would like to take the chance to credit the author.
 
-Thank you~!
+Author: Konstantin Münster. <mail@konstantin.digital>
+
+Template used: Gatsby Starter Portfolio Minimal Theme.
+
+Enjoy!
