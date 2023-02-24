@@ -8,7 +8,7 @@ banner:
   caption: ''
 categories:
   - "Software Dev."
-  - "Full Time"
+  - "Full-Time"
 keywords:
   - "Accenture"
   - "Consultng"
