@@ -18,4 +18,4 @@ keywords:
 
 <p>EDMC is a construction company in Hong Kong. I worked with a designer on revamping its website using NextJS.</p>
 
-<p>Project Demo: <u>To be published.</u></p>
+<p>Project Demo: <a href="https://edmc-v2.herokuapp.com/" target="_blank"><u>https://edmc-v2.herokuapp.com/</u></a></p>
