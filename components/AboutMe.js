@@ -15,13 +15,14 @@ export default function AboutMe() {
             className="leading-loose text-2xl md:text-4xl font-semibold  mx-4"
             style={{ lineHeight: "3rem" }}
           >
-            {userData.about.title}. Currently working on{" "}
-            <a
+            {userData.about.title}
+            {/* . Currently working on{" "} */}
+            {/* <a
               className="bg-red-500 rounded-md px-2 py-1 text-white"
               href={userData.about.currentProjectUrl}
             >
               {userData.about.currentProject} ✈️
-            </a>
+            </a> */}
           </p>
         </div>
       </div>
@@ -49,16 +50,16 @@ export default function AboutMe() {
                 Job Opportunities
               </h1>
               <p className="text-lg text-gray-500 mt-4 dark:text-gray-300">
-                I'm looking for a job currently, If you see me as a good fit,
-                check my{" "}
+                I'm currently less active in job searching. However, if you find an opening that suits me,
+                feel free to{" "}
                 <a
-                  href={userData.resumeUrl}
+                  href={'/contact'}
                   target="__blank"
                   className="text-gray-800 border-b-2 border-gray-800 dark:border-gray-300 font-bold dark:text-gray-300"
                 >
-                  CV
-                </a>{" "}
-                and I'd love to work for you.
+                  reach out
+                </a>
+                !
               </p>
             </div>
             {/* Social Links */}
@@ -78,7 +79,7 @@ export default function AboutMe() {
                   </div>
                 </a>
               </div>
-              <div className="flex flex-row justify-start items-center ">
+              {/* <div className="flex flex-row justify-start items-center ">
                 <a
                   href={userData.socialLinks.facebook}
                   className="flex flex-row items-center space-x-4 group"
@@ -89,7 +90,7 @@ export default function AboutMe() {
                     Facebook
                   </div>
                 </a>
-              </div>
+              </div> */}
               <div className="flex flex-row justify-start items-center">
                 <a
                   href={userData.socialLinks.twitter}
@@ -126,7 +127,7 @@ export default function AboutMe() {
                   </div>
                 </a>
               </div>
-              <div className="flex flex-row justify-start items-center">
+              {/* <div className="flex flex-row justify-start items-center">
                 <a
                   href={userData.socialLinks.instagram}
                   className="flex flex-row items-center space-x-4 group"
@@ -137,7 +138,7 @@ export default function AboutMe() {
                     Instagram
                   </div>
                 </a>
-              </div>
+              </div> */}
             </div>
           </div>
           {/* Text area */}
