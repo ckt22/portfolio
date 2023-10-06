@@ -2,7 +2,7 @@ const userData = {
   githubUsername: "ckt22",
   name: "Cheuk Kit Tang",
   designation: "Full-Stack Developer",
-  avatarUrl: "/me.jpg",
+  avatarUrl: "https://ckt22.github.io/portfolio/me.jpg",
   email: "tangck0202@gmail.com",
   phone: "nope",
   address: "Hong Kong.",
@@ -10,32 +10,32 @@ const userData = {
     {
       title: "Beyond Mood - Well-being Journal",
       link: "https://tailwindmasterkit.com",
-      imgUrl: "/beyondmood.png",
+      imgUrl: "https://ckt22.github.io/portfolio/beyondmood.png",
     },
     {
       title: "EDM Construction Limited - Portfolio Site Revamp",
       link: "https://edmc.hk",
-      imgUrl: "/edmc.png",
+      imgUrl: "https://ckt22.github.io/portfolio/edmc.png",
     },
     {
       title: "Landing Page - Course Catelog",
       link: "https://www.preface.ai/bootcamp-for-kids-4-streams-2023/",
-      imgUrl: "/course-catalog.png",
+      imgUrl: "https://ckt22.github.io/portfolio/course-catalog.png",
     },
     {
       title: "Techbites - Video Content Platform",
       link: "https://app.preface.ai/techbites",
-      imgUrl: "/techbites.png",
+      imgUrl: "https://ckt22.github.io/portfolio/techbites.png",
     },
     {
       title: "ReUbird - Membership Portal",
       link: "https://reubird.hk/",
-      imgUrl: "/reubird.png",
+      imgUrl: "https://ckt22.github.io/portfolio/reubird.png",
     },
     {
       title: "MySilkWay - Product Q&A for E-commerce Website",
       link: "https://www.mysilkway.com/az/en/c/smart-trackers/403a9e27-f93e-4ba9-8dde-90bb5c28d9b7",
-      imgUrl: "/mysilkway.png",
+      imgUrl: "https://ckt22.github.io/portfolio/mysilkway.png",
     },
   ],
   about: {

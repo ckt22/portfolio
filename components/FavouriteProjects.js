@@ -41,7 +41,7 @@ export default function FavouriteProjects() {
           >
             <div className="relative overflow-hidden">
               <img
-                src="/edmc.png"
+                src="https://ckt22.github.io/portfolio/edmc.png"
                 alt="EDM Construction Limited - Portfolio Site Revamp"
                 className="transform hover:scale-125 transition duration-2000 ease-out"
               />
@@ -61,7 +61,7 @@ export default function FavouriteProjects() {
             <div className="relative overflow-hidden">
               {/* <div className="overlay absolute inset-0 bg-black bg-opacity-70 z-10"></div> */}
               <img
-                src="/reubird.png"
+                src="https://ckt22.github.io/portfolio/reubird.png"
                 alt="Reubird Membership Portal"
                 className="transform hover:scale-125 transition duration-2000 ease-out"
               />
@@ -81,7 +81,7 @@ export default function FavouriteProjects() {
             <div className="relative overflow-hidden shadow-2xl">
               {/* <div className="overlay absolute inset-0 bg-black bg-opacity-70 z-10"></div> */}
               <img
-                src="/course-catalog.png"
+                src="https://ckt22.github.io/portfolio/course-catalog.png"
                 alt="Preface Course Catalogs"
                 className="transform hover:scale-125 transition duration-2000 ease-out object-cover shadow-2xl"
               />

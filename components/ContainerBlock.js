@@ -9,8 +9,8 @@ export default function ContainerBlock({ children, ...customMeta }) {
 
   const meta = {
     title: "Cheuk Kit Tang - Developer, Community Manager",
-    description: `I've been developing websites for 5 years straight. Get in touch with me to know more.`,
-    image: "/avatar.png",
+    description: `I've been developing websites for 3 years straight. Get in touch with me to know more.`,
+    image: "https://ckt22.github.io/portfolio/avatar.png",
     type: "website",
     ...customMeta,
   };
@@ -22,22 +22,17 @@ export default function ContainerBlock({ children, ...customMeta }) {
         <meta content={meta.description} name="description" />
         <meta
           property="og:url"
-          content={`https://yourwebsite.com${router.asPath}`}
+          content={`https://ckt22.github.io/portfolio${router.asPath}`}
         />
         <link
           rel="canonical"
-          href={`https://yourwebsite.com${router.asPath}`}
+          href={`https://ckt22.github.io/portfolio${router.asPath}`}
         />
         <meta property="og:type" content={meta.type} />
-        <meta property="og:site_name" content="Manu Arora" />
+        <meta property="og:site_name" content="Cheuk Kit Tang Portfolio" />
         <meta property="og:description" content={meta.description} />
         <meta property="og:title" content={meta.title} />
         <meta property="og:image" content={meta.image} />
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:site" content="@mannupaaji" />
-        <meta name="twitter:title" content={meta.title} />
-        <meta name="twitter:description" content={meta.description} />
-        <meta name="twitter:image" content={meta.image} />
         {meta.date && (
           <meta property="article:published_time" content={meta.date} />
         )}
