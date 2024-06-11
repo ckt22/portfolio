@@ -57,8 +57,8 @@ const userData = {
       `While I have a broad exposure to various technologies such as cloud and blockchain, my specialty lies within web software development. I am a strong coder in Javascript frameworks such as React, Next, Node (Express) etc.`,
       `I see myself as a more work smart type of developer. I believe with much accessible resources, I will be able to code anything and make everything possible.`,
     ],
-    currentProject: "Tailwind Master Kit",
-    currentProjectUrl: "https://tailwindmasterkit.com",
+    currentProject: "Preface",
+    currentProjectUrl: "https://preface.ai",
   },
   experience: [
     {
@@ -66,13 +66,13 @@ const userData = {
       company: "Preface",
       year: "2023",
       companyLink: "https://preface.ai",
-      desc: "Developing in-house CRM software and digital products.",
+      desc: "Building frontend and backend of the company's classroom system, customer portal, and compaign landing pages.",
     },
     {
       title: "Backend Developer",
       company: "Crypto Exchange",
       year: "2022",
-      companyLink: "https://tailwindmasterkit.com",
+      companyLink: "https://linke",
       desc: "Integrated payment gateways to the main cryptocurrency exchange platform.",
     },
     {
@@ -100,7 +100,6 @@ const userData = {
     "https://drive.google.com/file/d/1xmE3BOmgM7TAOOgVp36xQIQvYDntDYoo/view?usp=sharing",
   socialLinks: {
     instagram: "https://instagram.com/maninthere",
-    twitter: "https://twitter.com/mannupaaji",
     linkedin: "https://www.linkedin.com/in/cheuk-kit-tang/",
     github: "https://github.com/ckt22",
     facebook: "https://facebook.com/",
