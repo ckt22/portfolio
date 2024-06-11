@@ -8,8 +8,19 @@ const userData = {
   address: "Hong Kong.",
   projects: [
     {
-      title: "Beyond Mood - Well-being Journal",
-      link: "https://tailwindmasterkit.com",
+      title: "Landing Page - Prolog Web3",
+      link: "https://www.prolog.world/",
+      imgUrl: "https://ckt22.github.io/portfolio/prolog.png",
+    },
+    {
+      title:
+        "Beyond Mood - Mood Journaling Mobile App (Request for early access)",
+      link: "mailto:tangck0202@beyondmoo.com?body=Hello! I would like to try out the Beyond Mood Journal app!",
+      imgUrl: "https://ckt22.github.io/portfolio/bmj_app.png",
+    },
+    {
+      title: "Beyond Mood - Well-being Journal (Web App)",
+      link: "https://beyondmood.com",
       imgUrl: "https://ckt22.github.io/portfolio/beyondmood.png",
     },
     {
