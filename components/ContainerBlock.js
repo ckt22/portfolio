@@ -9,8 +9,8 @@ export default function ContainerBlock({ children, ...customMeta }) {
 
   const meta = {
     title: "Cheuk Kit Tang - Developer, Community Manager",
-    description: `I've been developing websites for 3 years straight. Get in touch with me to know more.`,
-    image: "https://ckt22.github.io/portfolio/avatar.png",
+    description: `A showcase of works from Cheuk Kit Tang, mostly software related.`,
+    image: "https://ckt22.github.io/portfolio/me.jpg",
     type: "website",
     ...customMeta,
   };

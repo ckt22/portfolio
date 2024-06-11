@@ -93,7 +93,6 @@ const userData = {
     linkedin: "https://www.linkedin.com/in/cheuk-kit-tang/",
     github: "https://github.com/ckt22",
     facebook: "https://facebook.com/",
-    peerlist: "https://peerlist.io/manuarora",
   },
 };
 
