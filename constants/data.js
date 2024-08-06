@@ -8,6 +8,11 @@ const userData = {
   address: "Hong Kong.",
   projects: [
     {
+      title: "Landing Page with Internationalisation - Hackathon",
+      link: "https://preface.ai/nomad-awards",
+      imgUrl: "https://ckt22.github.io/portfolio/nomad_awards.png",
+    },
+    {
       title: "Landing Page - Prolog Web3",
       link: "https://www.prolog.world/",
       imgUrl: "https://ckt22.github.io/portfolio/prolog.png",
