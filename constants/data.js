@@ -99,7 +99,7 @@ const userData = {
   resumeUrl:
     "https://drive.google.com/file/d/1xmE3BOmgM7TAOOgVp36xQIQvYDntDYoo/view?usp=sharing",
   socialLinks: {
-    instagram: "https://instagram.com/maninthere",
+    instagram: "https://instagram.com",
     linkedin: "https://www.linkedin.com/in/cheuk-kit-tang/",
     github: "https://github.com/ckt22",
     facebook: "https://facebook.com/",
