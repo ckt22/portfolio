@@ -1,5 +1,6 @@
 import React from "react";
 import userData from "@constants/data";
+import Link from "next/link";
 
 export default function AboutMe() {
   return (
@@ -52,13 +53,13 @@ export default function AboutMe() {
               <p className="text-lg text-gray-500 mt-4 dark:text-gray-300">
                 I'm currently less active in job searching. However, if you find
                 an opening that suits me, feel free to{" "}
-                <a
+                <Link
                   href={"/contact"}
                   target="__blank"
                   className="text-gray-800 border-b-2 border-gray-800 dark:border-gray-300 font-bold dark:text-gray-300"
                 >
                   reach out
-                </a>
+                </Link>
                 !
               </p>
             </div>
