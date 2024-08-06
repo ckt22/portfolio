@@ -104,7 +104,7 @@ export default function Navbar() {
               </svg>
             )}
           </Link>
-          <Link
+          {/* <Link
             href="/contact"
             className={`text-base  ${
               router.asPath === "/contact"
@@ -128,7 +128,7 @@ export default function Navbar() {
                 />
               </svg>
             )}
-          </Link>
+          </Link> */}
         </div>
 
         <div className="space-x-4 flex flex-row items-center">
