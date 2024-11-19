@@ -10,7 +10,7 @@ const userData = {
     {
       title: "[EthGlobal Bangkok 2024] True Forum - SocialFi.",
       link: "https://ethglobal.com/showcase/true-forum-yi1f7",
-      imgUrl: "https://ckt22.github.io/portfolio/true-forum.png",
+      imgUrl: "https://ckt22.github.io/portfolio/true-forum.jpg",
     },
     {
       title: "[Chainlink Hackathon 2024] Stop Being Late! SocialFi.",
