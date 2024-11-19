@@ -28,38 +28,37 @@ const userData = {
       imgUrl: "https://ckt22.github.io/portfolio/prolog.png",
     },
     {
-      title:
-        "Beyond Mood - Mood Journaling Mobile App (Request for early access)",
-      link: "mailto:tangck0202@beyondmoo.com?body=Hello! I would like to try out the Beyond Mood Journal app!",
+      title: "Mood Journaling Mobile App (Download on App Store now!)",
+      link: "https://apps.apple.com/hk/app/beyond-mood-journal/id6476593781?l=en-GB",
       imgUrl: "https://ckt22.github.io/portfolio/bmj_app.png",
     },
     {
-      title: "Beyond Mood - Well-being Journal (Web App)",
+      title: "Well-being Journal (Web App)",
       link: "https://beyondmood.com",
       imgUrl: "https://ckt22.github.io/portfolio/beyondmood.png",
     },
     {
-      title: "EDM Construction Limited - Portfolio Site Revamp",
+      title: "Site revamp for a construction company",
       link: "https://edmc.hk",
       imgUrl: "https://ckt22.github.io/portfolio/edmc.png",
     },
     {
-      title: "Landing Page - Course Catelog",
+      title: "Course catalog landing page (developer standard)",
       link: "https://www.preface.ai/bootcamp-for-kids-4-streams-2023/",
       imgUrl: "https://ckt22.github.io/portfolio/course-catalog.png",
     },
     {
-      title: "Techbites - Video Content Platform",
+      title: "Video Content Platform",
       link: "https://app.preface.ai/techbites",
       imgUrl: "https://ckt22.github.io/portfolio/techbites.png",
     },
     {
-      title: "ReUbird - Membership Portal",
+      title: "Membership Portal - Events & Party Company",
       link: "https://reubird.hk/",
       imgUrl: "https://ckt22.github.io/portfolio/reubird.png",
     },
     {
-      title: "MySilkWay - Product Q&A for E-commerce Website",
+      title: "Product Q&A for E-commerce Website",
       link: "https://www.mysilkway.com/az/en/c/smart-trackers/403a9e27-f93e-4ba9-8dde-90bb5c28d9b7",
       imgUrl: "https://ckt22.github.io/portfolio/mysilkway.png",
     },
