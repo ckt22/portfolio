@@ -8,9 +8,9 @@ const userData = {
   address: "Hong Kong.",
   projects: [
     {
-      title: "[EthGlobal Bangkok 2024] True Social - SocialFi.",
+      title: "[EthGlobal Bangkok 2024] True Forum - SocialFi.",
       link: "https://ethglobal.com/showcase/true-forum-yi1f7",
-      imgUrl: "https://ckt22.github.io/portfolio/be-right-there.png",
+      imgUrl: "https://ckt22.github.io/portfolio/true-forum.png",
     },
     {
       title: "[Chainlink Hackathon 2024] Stop Being Late! SocialFi.",
