@@ -20,12 +20,12 @@ const userData = {
     {
       title: "Catering & EdTech Mobile App (iOS)",
       link: "https://apps.apple.com/hk/app/preface-ai/id6541761017?l=en-GB",
-      imgUrl: "https://ckt22.github.io/portfolio/preface-app.jpg",
+      imgUrl: "https://ckt22.github.io/portfolio/preface-app.png",
     },
     {
       title: "Catering & EdTech Mobile App (Android)",
       link: "https://play.google.com/store/apps/details?id=ai.preface.app&hl=en&pli=1",
-      imgUrl: "https://ckt22.github.io/portfolio/preface-app-android.jpg",
+      imgUrl: "https://ckt22.github.io/portfolio/preface-app.png",
     },
     {
       title: "Landing Page with Internationalisation - Hackathon",
