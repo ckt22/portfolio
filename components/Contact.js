@@ -72,25 +72,7 @@ export default function Contact() {
             </div>
             <div className="social-icons flex flex-row space-x-8">
               <a
-                href={userData.socialLinks.facebook}
-                className="h-10 w-10 rounded-full hover:bg-blue-500 flex items-center justify-center cursor-pointer"
-              >
-                <svg
-                  width="24"
-                  height="24"
-                  className="text-gray-50"
-                  viewBox="0 0 24 24"
-                  fill="none"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path
-                    d="M9.19795 21.5H13.198V13.4901H16.8021L17.198 9.50977H13.198V7.5C13.198 6.94772 13.6457 6.5 14.198 6.5H17.198V2.5H14.198C11.4365 2.5 9.19795 4.73858 9.19795 7.5V9.50977H7.19795L6.80206 13.4901H9.19795V21.5Z"
-                    fill="currentColor"
-                  />
-                </svg>
-              </a>
-              <a
-                href={userData.socialLinks.twitter}
+                href={userData.socialLinks.github}
                 className="h-10 w-10 rounded-full hover:bg-blue-500 flex items-center justify-center cursor-pointer"
               >
                 <svg
@@ -104,37 +86,7 @@ export default function Contact() {
                   <path
                     fillRule="evenodd"
                     clipRule="evenodd"
-                    d="M8 3C9.10457 3 10 3.89543 10 5V8H16C17.1046 8 18 8.89543 18 10C18 11.1046 17.1046 12 16 12H10V14C10 15.6569 11.3431 17 13 17H16C17.1046 17 18 17.8954 18 19C18 20.1046 17.1046 21 16 21H13C9.13401 21 6 17.866 6 14V5C6 3.89543 6.89543 3 8 3Z"
-                    fill="currentColor"
-                  />
-                </svg>
-              </a>
-              <a
-                href={userData.socialLinks.instagram}
-                className="h-10 w-10 rounded-full hover:bg-blue-500 flex items-center justify-center cursor-pointer"
-              >
-                <svg
-                  width="24"
-                  height="24"
-                  className="text-gray-50"
-                  viewBox="0 0 24 24"
-                  fill="none"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path
-                    fillRule="evenodd"
-                    clipRule="evenodd"
-                    d="M12 7C9.23858 7 7 9.23858 7 12C7 14.7614 9.23858 17 12 17C14.7614 17 17 14.7614 17 12C17 9.23858 14.7614 7 12 7ZM9 12C9 13.6569 10.3431 15 12 15C13.6569 15 15 13.6569 15 12C15 10.3431 13.6569 9 12 9C10.3431 9 9 10.3431 9 12Z"
-                    fill="currentColor"
-                  />
-                  <path
-                    d="M18 5C17.4477 5 17 5.44772 17 6C17 6.55228 17.4477 7 18 7C18.5523 7 19 6.55228 19 6C19 5.44772 18.5523 5 18 5Z"
-                    fill="currentColor"
-                  />
-                  <path
-                    fillRule="evenodd"
-                    clipRule="evenodd"
-                    d="M5 1C2.79086 1 1 2.79086 1 5V19C1 21.2091 2.79086 23 5 23H19C21.2091 23 23 21.2091 23 19V5C23 2.79086 21.2091 1 19 1H5ZM19 3H5C3.89543 3 3 3.89543 3 5V19C3 20.1046 3.89543 21 5 21H19C20.1046 21 21 20.1046 21 19V5C21 3.89543 20.1046 3 19 3Z"
+                    d="M12 2C6.477 2 2 6.477 2 12C2 16.419 4.865 20.167 8.839 21.594C9.339 21.687 9.521 21.375 9.521 21.109C9.521 20.869 9.512 20.094 9.512 19.212C7 19.719 6.35 18.637 6.15 18.062C6.037 17.775 5.55 16.837 5.125 16.597C4.775 16.406 4.275 15.899 5.112 15.887C5.9 15.875 6.462 16.625 6.65 16.925C7.55 18.437 8.937 18.1 9.562 17.834C9.656 17.15 9.937 16.694 10.25 16.444C7.975 16.194 5.6 15.337 5.6 11.587C5.6 10.464 6 9.544 6.675 8.819C6.569 8.566 6.2 7.519 6.775 6.144C6.775 6.144 7.612 5.881 9.525 7.175C10.325 6.95 11.175 6.837 12.025 6.837C12.875 6.837 13.725 6.95 14.525 7.175C16.437 5.869 17.275 6.144 17.275 6.144C17.85 7.519 17.481 8.566 17.375 8.819C18.05 9.544 18.45 10.452 18.45 11.587C18.45 15.35 16.063 16.194 13.788 16.444C14.188 16.756 14.538 17.369 14.538 18.325C14.538 19.694 14.529 20.769 14.529 21.109C14.529 21.375 14.712 21.699 15.212 21.594C19.137 20.167 22 16.407 22 12C22 6.477 17.523 2 12 2Z"
                     fill="currentColor"
                   />
                 </svg>
