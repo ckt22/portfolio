@@ -18,6 +18,16 @@ const userData = {
       imgUrl: "https://ckt22.github.io/portfolio/be-right-there.png",
     },
     {
+      title: "Catering & EdTech Mobile App (iOS)",
+      link: "https://apps.apple.com/hk/app/preface-ai/id6541761017?l=en-GB",
+      imgUrl: "https://ckt22.github.io/portfolio/preface-app.jpg",
+    },
+    {
+      title: "Catering & EdTech Mobile App (Android)",
+      link: "https://play.google.com/store/apps/details?id=ai.preface.app&hl=en&pli=1",
+      imgUrl: "https://ckt22.github.io/portfolio/preface-app-android.jpg",
+    },
+    {
       title: "Landing Page with Internationalisation - Hackathon",
       link: "https://preface.ai/nomad-awards",
       imgUrl: "https://ckt22.github.io/portfolio/nomad_awards.png",
@@ -28,9 +38,9 @@ const userData = {
       imgUrl: "https://ckt22.github.io/portfolio/prolog.png",
     },
     {
-      title: "Mood Journaling Mobile App (Download on App Store now!)",
+      title: "Mood Journaling Mobile App (iOS)",
       link: "https://apps.apple.com/hk/app/beyond-mood-journal/id6476593781?l=en-GB",
-      imgUrl: "https://ckt22.github.io/portfolio/bmj_app.png",
+      imgUrl: "https://ckt22.github.io/portfolio/bmj-app.png",
     },
     {
       title: "Well-being Journal (Web App)",
